@@ -1,0 +1,3 @@
+<Response>
+    <Say voice="alice">A7B Check Position</Say>
+</Response>
