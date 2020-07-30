@@ -1,0 +1,3 @@
+<Response>
+    <Say voice="alice">N K L A Traded</Say>
+</Response>
