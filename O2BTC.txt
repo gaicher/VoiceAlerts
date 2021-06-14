@@ -1,0 +1,3 @@
+<Response>
+    <Say voice="alice">O2 Bitcoin Traded</Say>
+</Response>
