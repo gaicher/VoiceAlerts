@@ -1,0 +1,3 @@
+<Response>
+    <Say voice="alice">FPGA NY42 Stock New Position</Say>
+</Response>
