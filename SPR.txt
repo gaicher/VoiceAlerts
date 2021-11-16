@@ -1,0 +1,3 @@
+<Response>
+    <Say voice="alice">SPR Traded</Say>
+</Response>
