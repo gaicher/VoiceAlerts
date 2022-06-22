@@ -1,0 +1,3 @@
+<Response>
+    <Say voice="alice">E04 Check Position</Say>
+</Response>
