@@ -1,0 +1,3 @@
+<Response>
+    <Say voice="alice">E04 Bitcoin Traded</Say>
+</Response>
