@@ -1,0 +1,3 @@
+<Response>
+    <Say voice="alice">BrokerTec Check Position</Say>
+</Response>
