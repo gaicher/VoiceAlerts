@@ -1,0 +1,3 @@
+<Response>
+	<Say voice="alice">CME G25 Crashed</Say>
+</Response>
