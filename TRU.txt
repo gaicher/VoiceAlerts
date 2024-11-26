@@ -1,0 +1,3 @@
+<Response>
+    <Say voice="alice">Trump Tweeted Triple A Trump</Say>
+</Response>
