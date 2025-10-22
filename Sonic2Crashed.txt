@@ -1,0 +1,3 @@
+<Response>
+	<Say voice="alice">Nasdaq Sonic FPGA Two Crashed</Say>
+</Response>
